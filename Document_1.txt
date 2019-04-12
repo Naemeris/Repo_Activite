@@ -1,0 +1,1 @@
+Le projet sur lequel je travaille dernièrement me demande beaucoup d'autoformation et notamment en devellopement. il m'apparait donc necessaire d'utiliser un logiciel de VERSIONNING. 
